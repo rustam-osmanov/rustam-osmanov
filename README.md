@@ -14,9 +14,9 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![PHP](https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=PHP)
-![Oracle](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)
-![Postgresql](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)
-![Java](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/-MySQL-333?style=for-the-badge=Oracle)
+![Postgresql](https://img.shields.io/badge/-MySQL-333?style=for-the-badge=Postgresql)
+![Java](https://img.shields.io/badge/-MySQL-333?style=for-the-badge=Java)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustam-osmanov&layout=compact&theme=dark)
