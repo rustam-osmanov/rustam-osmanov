@@ -15,7 +15,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![PHP](https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=PHP)
 ![Oracle](https://img.shields.io/badge/-Oracle-333?style=for-the-badge&logo=Oracle)
-![Postgresql](https://img.shields.io/badge/-Postgresql333?style=for-the-badge&logo=Postgresql)
+![Postgresql](https://img.shields.io/badge/-Postgresql-333?style=for-the-badge&logo=Postgresql)
 ![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=Java)
 
 
