@@ -19,7 +19,7 @@
 ![Java](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morphIsmail&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustam-osmanov&layout=compact&theme=dark)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
