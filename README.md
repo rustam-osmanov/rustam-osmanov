@@ -1,7 +1,6 @@
-## Hi there 👋
+## Здравствуйте 👋
 
-<!--
-**rustam-osmanov/rustam-osmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Рустам Османов. Работаю в IT  разработке с 2013 года. 
 
 Here are some ideas to get you started:
 
