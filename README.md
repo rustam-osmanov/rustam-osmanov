@@ -21,6 +21,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustam-osmanov&layout=compact&theme=dark)
 
+
+
+### Контакты
+[![Курсы на Stepik](https://img.shields.io/badge/-Stepik-08a652?style=for-the-badge)]([https://stepik.org/users/387773773/teach](https://stepik.org/users/366777128/profile))
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/rustam009)
+
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
